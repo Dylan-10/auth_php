@@ -1,1 +1,1 @@
-alert("hello world");
+alert("Test git");
